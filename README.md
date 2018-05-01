@@ -3,7 +3,7 @@
 <br>A parser for the Human Metabolome Database (xml).
 
 ## Background
-The Humand Metabolome Database (IHMDB) (http://www.hmdb.ca/) is a online,
+The Human Metabolome Database (IHMDB) (http://www.hmdb.ca/) is a online,
 downloadable database of metabolites that have been observered or are
 considered observable in humans. This Java library was developed to facilitate
 extraction of key bits of information from HMDB and to use that information
