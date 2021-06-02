@@ -1,5 +1,5 @@
 # HMDBParser
-> *Copyright 2018 [Scott Walmsley](https://scottwalmsley.github.io)*
+> *Copyright 2018,2019, 2020, 2021 [Scott Walmsley](https://scottwalmsley.github.io)*
 <br>A parser for the Human Metabolome Database (xml).
 
 ## Background
